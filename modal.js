@@ -8,7 +8,7 @@ const populateModal = (index) => {
       role: 'Front End Dev',
       year: '2023',
       image: {
-        URL: './assets/images/project4.png',
+        URL: './assets/images/boooookkk.png',
         alt: 'Book-An-Appointment project snapshot',
       },
       description:
@@ -22,7 +22,7 @@ const populateModal = (index) => {
       role: 'Front End Dev',
       year: '2021',
       image: {
-        URL: './assets/images/project4.png',
+        URL: './assets/images/Space Travellers Hub.png',
         alt: 'Space-Travel-Hub project snapshot',
       },
       description:
@@ -36,7 +36,7 @@ const populateModal = (index) => {
       role: 'front End Dev',
       year: '2021',
       image: {
-        URL: './assets/images/project3.png',
+        URL: './assets/images/Chicken Breast Meals.png',
         alt: 'JS-Capstone-project snapshot',
       },
       description:
@@ -50,7 +50,7 @@ const populateModal = (index) => {
       role: 'Front End Dev',
       year: '2021',
       image: {
-        URL: './assets/images/project1.png',
+        URL: './assets/images/To Do List.png',
         alt: 'To-do-List project snapshot',
       },
       description:
@@ -64,7 +64,7 @@ const populateModal = (index) => {
       role: 'Front End Dev',
       year: '2021',
       image: {
-        URL: './assets/images/project2.png',
+        URL: './assets/images/Awesome Books.png',
         alt: 'Awesome Books project snapshot',
       },
       description:
@@ -78,7 +78,7 @@ const populateModal = (index) => {
       role: 'Front End Dev',
       year: '2021',
       image: {
-        URL: './assets/images/project4.png',
+        URL: './assets/images/My conference capstone project.png',
         alt: 'Conference Capstone project snapshot',
       },
       description:
@@ -92,7 +92,7 @@ const populateModal = (index) => {
       role: 'Front End Dev',
       year: '2021',
       image: {
-        URL: './assets/images/project4.png',
+        URL: './assets/images/Mohamed Badr Portfolio.png',
         alt: 'My Portfolio project snapshot',
       },
       description:
