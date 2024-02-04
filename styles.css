@@ -291,6 +291,7 @@ h1 {
 .about-container {
   background-color: #fff;
   margin-top: 114px;
+  margin-bottom: 210px;
   border-top-right-radius: 100px;
   padding: 0 24px;
   font-family: "Poppins", sans-serif;
@@ -327,10 +328,10 @@ h1 {
   display: flex;
   flex-direction: row;
   margin: 26px 0 20px;
-  padding: 0 0 0 12px;
+  padding: 0 0 0 0px;
 }
 
-.social-container-about li {
+.social-container-about li a {
   margin-right: 20px;
   font-size: 25px;
   width: 20px;
