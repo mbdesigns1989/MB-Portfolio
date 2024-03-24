@@ -18,6 +18,20 @@ const populateModal = (index) => {
       githubLink: 'https://github.com/mbdesigns1989/Book-An-Appointment-Frontend',
     },
     {
+      projectName: 'Metrics Web App',
+      role: 'Front End Dev',
+      year: '2023',
+      image: {
+        URL: './assets/images/metrics.jpg',
+        alt: 'Metrics Web App project snapshot',
+      },
+      description:
+        'This React Redux project involves working with data from a diseases API. The app allows users to view COVID-19 cases in European countries.',
+      technologies: ['html', 'css', 'javascipt'],
+      liveLink: 'https://65ffca1d159c7fa0e2cec388--stately-basbousa-d7484e.netlify.app/',
+      githubLink: 'https://github.com/mbdesigns1989/React-capstone-webapp/tree/dev',
+    },
+    {
       projectName: 'Space Travel Hub',
       role: 'Front End Dev',
       year: '2021',
