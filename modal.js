@@ -22,7 +22,7 @@ const populateModal = (index) => {
       role: 'Front End Dev',
       year: '2023',
       image: {
-        URL: './assets/images/metrics.jpg',
+        URL: './assets/images/metrics-wepapp.jpg',
         alt: 'Metrics Web App project snapshot',
       },
       description:
